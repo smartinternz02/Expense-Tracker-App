@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Expenses Tracker</string>
+    <string name="title_activity_add_expenses">AddExpensesActivity</string>
+    <string name="title_activity_set_limit">SetLimitActivity</string>
+    <string name="title_activity_view_records">ViewRecordsActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+</resources>
